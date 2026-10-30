@@ -1,4 +1,4 @@
-# Yaksha Kombat —  👹⚔️
+# Yaksha Kombat 2026 —  👹⚔️
 
 > **A zero-install, 3D browser fighting game inspired by Sri Lankan yakku folklore, demonology, and Thovil rituals.**
 
@@ -131,7 +131,7 @@ Right-click `index.html` inside VS Code and choose **"Open with Live Server"**.
 
 ## 📜 Credits & Attributions
 
-- **Game Design & Development:** [Ashenbgy](https://github.com/ashenbgy)
+- **Game Design & Development:** [Shivam kumar](https://github.com/shivam-jha-89/3d-yaksha-kombat)
 - **3D Character Rigs & Combat Animations:** [Mixamo (Adobe)](https://www.mixamo.com/)
 - **Additional 3D Models:**
   - *Sema Demon* by krit yamsaso ([CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/))
